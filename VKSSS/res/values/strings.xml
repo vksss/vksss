@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vksss</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="org_url">www.vksamajiksevasangthan.org</string>
+    <string name="title_activity_main_menu">Welcome To VKSSS</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">About Us</string>
+    <string name="title_section3">Volunteer</string>
+    <string name="title_section4">Plantation</string>
+    <string name="title_section5">Donate</string>
+    <string name="title_section6">Media</string>
+    <string name="title_section7">Contact</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_home">HomeActivity</string>
+	<string name="actionbar_background">#269900</string>
+	<string name = "welcome_string">WELCOME TO VKSSS</string>
+</resources>
